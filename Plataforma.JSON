@@ -1,0 +1,54 @@
+[
+    {
+        "id_plataforma": "1",
+        "nombre_plataforma": "Netflix"
+    },
+    {
+        "id_plataforma": "2",
+        "nombre_plataforma": "HBO Max"
+    },
+    {
+        "id_plataforma": "3",
+        "nombre_plataforma": "Amazon Prime Video"
+    },
+    {
+        "id_plataforma": "4",
+        "nombre_plataforma": "Disney+"
+    },
+    {
+        "id_plataforma": "5",
+        "nombre_plataforma": "Crunchyroll"
+    },
+    {
+        "id_plataforma": "6",
+        "nombre_plataforma": "Apple TV+"
+    },
+    {
+        "id_plataforma": "7",
+        "nombre_plataforma": "Paramount+"
+    },
+    {
+        "id_plataforma": "8",
+        "nombre_plataforma": "Star+"
+    },
+    {
+        "id_plataforma": "9",
+        "nombre_plataforma": "YouTube"
+    },
+    {
+        "id_plataforma": "10",
+        "nombre_plataforma": "Cine"
+    },
+    {
+        "id_plataforma": "11",
+        "nombre_plataforma": "Libro físico"
+    },
+    {
+        "id_plataforma": "12",
+        "nombre_plataforma": "Kindle"
+    },
+    {
+        "id_plataforma": "13",
+        "nombre_plataforma": "Peacock"
+    }
+]

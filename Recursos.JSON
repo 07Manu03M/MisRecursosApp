@@ -1,0 +1,483 @@
+[
+    {
+        "nombre": "Breaking Bad",
+        "genero_id": 1,
+        "id_plataforma": 1,
+        "estado": "Terminado",
+        "formato": "serie",
+        "fecha_terminacion": "2023-06-10",
+        "valoracion_final": 5,
+        "reseña_personal": "Una historia única con personajes increíbles."
+    },
+    {
+        "nombre": "El Padrino",
+        "genero_id": 1,
+        "id_plataforma": 3,
+        "estado": "Terminado",
+        "formato": "película",
+        "fecha_terminacion": "2023-04-15",
+        "valoracion_final": 5,
+        "reseña_personal": "Obra maestra del cine con actuaciones brillantes."
+    },
+    {
+        "nombre": "Stranger Things",
+        "genero_id": 4,
+        "id_plataforma": 1,
+        "estado": "En emisión",
+        "formato": "serie",
+        "fecha_terminacion": "",
+        "valoracion_final": 4,
+        "reseña_personal": "Nostalgia ochentera y misterio bien logrado."
+    },
+    {
+        "nombre": "Dune",
+        "genero_id": 4,
+        "id_plataforma": 2,
+        "estado": "Terminado",
+        "formato": "película",
+        "fecha_terminacion": "2023-10-01",
+        "valoracion_final": 4,
+        "reseña_personal": "Visualmente impactante y épica."
+    },
+    {
+        "nombre": "1984",
+        "genero_id": 16,
+        "estado": "Terminado",
+        "formato": "libro",
+        "fecha_terminacion": "2022-11-20",
+        "valoracion_final": 5,
+        "reseña_personal": "Una lectura que te deja pensando por días."
+    },
+    {
+        "nombre": "The Office",
+        "genero_id": 5,
+        "plataforma": 13,
+        "estado": "Terminado",
+        "formato": "serie",
+        "fecha_terminacion": "2021-08-15",
+        "valoracion_final": 4,
+        "reseña_personal": "Humor absurdo y entrañable."
+    },
+    {
+        "nombre": "Interestelar",
+        "genero_id": 4,
+        "plataforma": 2,
+        "estado": "Terminado",
+        "formato": "película",
+        "fecha_terminacion": "2022-12-12",
+        "valoracion_final": 5,
+        "reseña_personal": "Ciencia, amor y destino entrelazados en el espacio."
+    },
+    {
+        "nombre": "El Principito",
+        "genero_id": 6,
+        "estado": "Terminado",
+        "formato": "libro",
+        "fecha_terminacion": "2021-06-05",
+        "valoracion_final": 5,
+        "reseña_personal": "Sencillo pero profundamente reflexivo."
+    },
+    {
+        "nombre": "La Casa de Papel",
+        "genero_id": 3,
+        "plataforma": 1,
+        "estado": "Terminado",
+        "formato": "serie",
+        "fecha_terminacion": "2022-01-10",
+        "valoracion_final": 4,
+        "reseña_personal": "Intriga constante y personajes memorables."
+    },
+    {
+        "nombre": "The Mandalorian",
+        "genero_id": 4,
+        "plataforma": 4,
+        "estado": "En emisión",
+        "formato": "serie",
+        "fecha_terminacion": "",
+        "valoracion_final": 4,
+        "reseña_personal": "El universo Star Wars nunca se sintió tan fresco."
+    },
+    {
+        "nombre": "Harry Potter y la Piedra Filosofal",
+        "genero_id": 6,
+        "estado": "Terminado",
+        "formato": "libro",
+        "fecha_terminacion": "2020-03-01",
+        "valoracion_final": 5,
+        "reseña_personal": "Una puerta mágica a otro mundo."
+    },
+    {
+        "nombre": "Avatar: El Camino del Agua",
+        "genero_id": 4,
+        "plataforma": 4,
+        "estado": "Terminado",
+        "formato": "película",
+        "fecha_terminacion": "2023-03-25",
+        "valoracion_final": 4,
+        "reseña_personal": "Visualmente hermosa, pero un poco larga."
+    },
+    {
+        "nombre": "Rick and Morty",
+        "genero_id": 11,
+        "plataforma": 2,
+        "estado": "En emisión",
+        "formato": "serie",
+        "fecha_terminacion": "2023-03-25",
+        "valoracion_final": 4,
+        "reseña_personal": "Ciencia, locura y humor ácido."
+    },
+    {
+        "nombre": "La Odisea",
+        "genero_id": 14,
+        "estado": "Terminado",
+        "formato": "libro",
+        "fecha_terminacion": "2019-12-10",
+        "valoracion_final": 4,
+        "reseña_personal": "Una aventura clásica con lecciones eternas."
+    },
+    {
+        "nombre": "Dark",
+        "genero_id": 4,
+        "plataforma": 1,
+        "estado": "Terminado",
+        "formato": "serie",
+        "fecha_terminacion": "2020-09-18",
+        "valoracion_final": 5,
+        "reseña_personal": "Brillante y enredada, como debe ser."
+    },
+    {
+        "nombre": "Pulp Fiction",
+        "genero_id": 2,
+        "plataforma": 3,
+        "estado": "Terminado",
+        "formato": "película",
+        "fecha_terminacion": "2023-02-14",
+        "valoracion_final": 5,
+        "reseña_personal": "Diálogos inolvidables y estructura única."
+    },
+    {
+        "nombre": "Chernobyl",
+        "genero_id": 1,
+        "plataforma": 2,
+        "estado": "Terminado",
+        "formato": "serie",
+        "fecha_terminacion": "2021-10-30",
+        "valoracion_final": 5,
+        "reseña_personal": "Dura y necesaria. Impactante hasta el final."
+    },
+    {
+        "nombre": "El Señor de los Anillos",
+        "genero_id": 6,
+        "estado": "Terminado",
+        "formato": "libro",
+        "fecha_terminacion": "2018-11-10",
+        "valoracion_final": 5,
+        "reseña_personal": "Un universo entero dentro de un libro."
+    },
+    {
+        "nombre": "The Social Network",
+        "genero_id": 1,
+        "plataforma": 1,
+        "estado": "Terminado",
+        "formato": "película",
+        "fecha_terminacion": "2022-02-20",
+        "valoracion_final": 4,
+        "reseña_personal": "Interesante mirada al nacimiento de Facebook."
+    },
+    {
+        "nombre": "El Juego del Calamar",
+        "genero_id": 19,
+        "plataforma": 1,
+        "estado": "Terminado",
+        "formato": "serie",
+        "fecha_terminacion": "2022-03-01",
+        "valoracion_final": 3,
+        "reseña_personal": "Muy popular, aunque algo predecible."
+    },
+    {
+        "nombre": "BoJack Horseman",
+        "genero_id": 11,
+        "plataforma": 1,
+        "estado": "Terminado",
+        "formato": "serie",
+        "fecha_terminacion": "2023-09-12",
+        "valoracion_final": 5,
+        "reseña_personal": "Oscura, honesta y sorprendentemente humana."
+    },
+    {
+        "nombre": "Narcos",
+        "genero_id": 2,
+        "plataforma": 1,
+        "estado": "Terminado",
+        "formato": "serie",
+        "fecha_terminacion": "2022-04-03",
+        "valoracion_final": 4,
+        "reseña_personal": "Interesante historia del narcotráfico con buena producción."
+    },
+    {
+        "nombre": "Matrix",
+        "genero_id": 4,
+        "plataforma": 2,
+        "estado": "Terminado",
+        "formato": "película",
+        "fecha_terminacion": "2021-02-10",
+        "valoracion_final": 5,
+        "reseña_personal": "Revolucionaria en efectos e ideas."
+    },
+    {
+        "nombre": "Black Mirror",
+        "genero_id": 4,
+        "plataforma": 1,
+        "estado": "En emisión",
+        "formato": "serie",
+        "fecha_terminacion": "",
+        "valoracion_final": 4,
+        "reseña_personal": "Cada capítulo es un golpe mental."
+    },
+    {
+        "nombre": "Fight Club",
+        "genero_id": 1,
+        "plataforma": 8,
+        "estado": "Terminado",
+        "formato": "película",
+        "fecha_terminacion": "2020-08-05",
+        "valoracion_final": 5,
+        "reseña_personal": "Mindblowing. Una joya del cine moderno."
+    },
+    {
+        "nombre": "Merlí",
+        "genero_id": 1,
+        "plataforma": 1,
+        "estado": "Terminado",
+        "formato": "serie",
+        "fecha_terminacion": "2023-01-19",
+        "valoracion_final": 5,
+        "reseña_personal": "Filosofía y adolescencia como nunca se vio."
+    },
+    {
+        "nombre": "La Divina Comedia",
+        "genero_id": 14,
+        "estado": "Terminado",
+        "formato": "libro",
+        "fecha_terminacion": "2020-11-15",
+        "valoracion_final": 5,
+        "reseña_personal": "Una experiencia poética intensa y profunda."
+    },
+    {
+        "nombre": "The Batman",
+        "genero_id": 3,
+        "plataforma": 2,
+        "estado": "Terminado",
+        "formato": "película",
+        "fecha_terminacion": "2023-07-21",
+        "valoracion_final": 4,
+        "reseña_personal": "Oscura y detectivesca, un nuevo aire a Batman."
+    },
+    {
+        "nombre": "Los Juegos del Hambre",
+        "genero_id": 16,
+        "estado": "Pendiente",
+        "formato": "libro",
+        "fecha_terminacion": "",
+        "valoracion_final": 4,
+        "reseña_personal": "Adictivo y fácil de leer, con crítica social."
+    },
+    {
+        "nombre": "House of the Dragon",
+        "genero_id": 6,
+        "plataforma": 2,
+        "estado": "En emisión",
+        "formato": "serie",
+        "fecha_terminacion": "",
+        "valoracion_final": 4,
+        "reseña_personal": "Intrigas y dragones, muy prometedora."
+    },
+    {
+        "nombre": "Better Call Saul",
+        "genero_id": 1,
+        "plataforma": 1,
+        "estado": "Pendiente",
+        "formato": "serie",
+        "fecha_terminacion": "",
+        "valoracion_final": 5,
+        "reseña_personal": "Cierre perfecto para el universo de Breaking Bad."
+    },
+    {
+        "nombre": "Coraline",
+        "genero_id": 12,
+        "plataforma": 1,
+        "estado": "Terminado",
+        "formato": "película",
+        "fecha_terminacion": "2023-10-31",
+        "valoracion_final": 4,
+        "reseña_personal": "Oscura y mágica, ideal para una noche de Halloween."
+    },
+    {
+        "nombre": "Yo Robot",
+        "genero_id": 4,
+        "plataforma": 8,
+        "estado": "Terminado",
+        "formato": "película",
+        "fecha_terminacion": "2021-04-04",
+        "valoracion_final": 4,
+        "reseña_personal": "Acción y filosofía sobre la inteligencia artificial."
+    },
+    {
+        "nombre": "Arcane",
+        "genero_id": 11,
+        "plataforma": 1,
+        "estado": "En emisión",
+        "formato": "serie",
+        "fecha_terminacion": "2021-04-04",
+        "valoracion_final": 5,
+        "reseña_personal": "Animación brutal y narrativa bien escrita."
+    },
+    {
+        "nombre": "Sherlock",
+        "genero_id": 10,
+        "plataforma": 1,
+        "estado": "Pendiente",
+        "formato": "serie",
+        "fecha_terminacion": "",
+        "valoracion_final": 5,
+        "reseña_personal": "Un Sherlock moderno y brillante."
+    },
+    {
+        "nombre": "Big Fish",
+        "genero_id": 1,
+        "plataforma": 1,
+        "estado": "Terminado",
+        "formato": "película",
+        "fecha_terminacion": "2022-08-22",
+        "valoracion_final": 5,
+        "reseña_personal": "Lloré. Una metáfora bella sobre la vida."
+    },
+    {
+        "nombre": "Mindhunter",
+        "genero_id": 13,
+        "plataforma": 1,
+        "estado": "Pendiente",
+        "formato": "serie",
+        "fecha_terminacion": "",
+        "valoracion_final": 4,
+        "reseña_personal": "Interesante pero le faltó más temporadas."
+    },
+    {
+        "nombre": "Titanic",
+        "genero_id": 7,
+        "plataforma": 8,
+        "estado": "Terminado",
+        "formato": "película",
+        "fecha_terminacion": "2017-09-10",
+        "valoracion_final": 4,
+        "reseña_personal": "Un clásico eterno del romance."
+    },
+    {
+        "nombre": "El Perfume",
+        "genero_id": 10,
+        "estado": "Terminado",
+        "formato": "libro",
+        "fecha_terminacion": "2020-07-20",
+        "valoracion_final": 5,
+        "reseña_personal": "Perturbador e hipnótico. Muy bueno."
+    },
+    {
+        "nombre": "The Boys",
+        "genero_id": 20,
+        "plataforma": 3,
+        "estado": "En emisión",
+        "formato": "serie",
+        "fecha_terminacion": "",
+        "valoracion_final": 4,
+        "reseña_personal": "Violenta, satírica y muy adictiva."
+    },
+    {
+        "nombre": "Berserk",
+        "genero_id": 18,
+        "estado": "Pendiente",
+        "formato": "libro",
+        "fecha_terminacion": "",
+        "valoracion_final": 5,
+        "reseña_personal": "Crudo, épico y emocionalmente devastador."
+    },
+    {
+        "nombre": "Shrek 2",
+        "genero_id": 5,
+        "plataforma": 1,
+        "estado": "Terminado",
+        "formato": "película",
+        "fecha_terminacion": "2015-06-01",
+        "valoracion_final": 5,
+        "reseña_personal": "La mejor de toda la saga. Divertidísima."
+    },
+    {
+        "nombre": "Peaky Blinders",
+        "genero_id": 2,
+        "plataforma": 1,
+        "estado": "Terminado",
+        "formato": "serie",
+        "fecha_terminacion": "2023-02-05",
+        "valoracion_final": 5,
+        "reseña_personal": "Estilo, violencia y carisma a otro nivel."
+    },
+    {
+        "nombre": "El Club de la Pelea (Libro)",
+        "genero_id": 13,
+        "estado": "Pendiente",
+        "formato": "libro",
+        "fecha_terminacion": "",
+        "valoracion_final": 4,
+        "reseña_personal": "Más crudo que la película, pero igual de potente."
+    },
+    {
+        "nombre": "Monster",
+        "genero_id": 19,
+        "plataforma": 5,
+        "estado": "Terminado",
+        "formato": "serie (anime)",
+        "fecha_terminacion": "2024-02-02",
+        "valoracion_final": 5,
+        "reseña_personal": "Una joya del suspenso con personajes increíbles."
+    },
+    {
+        "nombre": "Los Simpson",
+        "genero_id": 5,
+        "plataforma": 8,
+        "estado": "En emisión",
+        "formato": "serie",
+        "fecha_terminacion": "",
+        "valoracion_final": 4,
+        "reseña_personal": "Clásico eterno de la cultura pop."
+    },
+    {
+        "nombre": "El Código Da Vinci",
+        "genero_id": 10,
+        "estado": "Terminado",
+        "formato": "libro",
+        "fecha_terminacion": "2018-05-25",
+        "valoracion_final": 4,
+        "reseña_personal": "Muy atrapante. Lo leí de un tirón."
+    },
+    {
+        "nombre": "Spider-Man: Into the Spider-Verse",
+        "genero_id": 3,
+        "plataforma": 1,
+        "estado": "Pendiente",
+        "formato": "película",
+        "fecha_terminacion": "",
+        "valoracion_final": 5,
+        "reseña_personal": "Visualmente alucinante. Un homenaje al cómic."
+    },
+    {
+        "nombre": "Parásitos",
+        "genero_id": 1,
+        "plataforma": 3,
+        "estado": "Terminado",
+        "formato": "película",
+        "fecha_terminacion": "2020-10-10",
+        "valoracion_final": 5,
+        "reseña_personal": "Crítica social disfrazada de suspenso brillante."
+    }
+]
+
+
