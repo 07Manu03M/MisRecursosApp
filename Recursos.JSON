@@ -1,7 +1,7 @@
 [
     {
         "nombre": "BoJack Horseman",
-        "genero": "Animación, Drama, Comedia",
+        "genero": "Animación",
         "plataforma": "Netflix",
         "estado": "Terminado",
         "formato": "serie",
@@ -11,17 +11,17 @@
     },
     {
         "nombre": "Narcos",
-        "genero": "Crimen, Drama",
+        "genero": "Crimen",
         "plataforma": "Netflix",
-        "estado": "Terminado",
+        "estado": "Pendiente",
         "formato": "serie",
-        "fecha_terminacion": "2022-04-03",
+        "fecha_terminacion": "",
         "valoracion_final": 4,
         "reseña_personal": "Interesante historia del narcotráfico con buena producción."
     },
     {
         "nombre": "Matrix",
-        "genero": "Ciencia Ficción, Acción",
+        "genero": "Ciencia Ficción",
         "plataforma": "HBO Max",
         "estado": "Terminado",
         "formato": "pelicula",
@@ -31,7 +31,7 @@
     },
     {
         "nombre": "Black Mirror",
-        "genero": "Ciencia Ficción, Distopía",
+        "genero": "Distopía",
         "plataforma": "Netflix",
         "estado": "En progreso",
         "formato": "serie",
@@ -41,7 +41,7 @@
     },
     {
         "nombre": "Fight Club",
-        "genero": "Drama, Psicológico",
+        "genero": "Psicológico",
         "plataforma": "Star+",
         "estado": "Terminado",
         "formato": "pelicula",
@@ -51,7 +51,7 @@
     },
     {
         "nombre": "Merlí",
-        "genero": "Drama, Educación",
+        "genero": "Drama",
         "plataforma": "Netflix",
         "estado": "En progreso",
         "formato": "serie",
@@ -61,7 +61,7 @@
     },
     {
         "nombre": "La Divina Comedia",
-        "genero": "Épico, Religioso",
+        "genero": "Religioso",
         "plataforma": "Libro",
         "estado": "Terminado",
         "formato": "libro",
@@ -71,9 +71,9 @@
     },
     {
         "nombre": "The Batman",
-        "genero": "Acción, Misterio",
+        "genero": "Acción",
         "plataforma": "HBO Max",
-        "estado": "Terminado",
+        "estado": "Pendiente",
         "formato": "pelicula",
         "fecha_terminacion": "2023-07-21",
         "valoracion_final": 4,
@@ -81,8 +81,7 @@
     },
     {
         "nombre": "Los Juegos del Hambre",
-        "genero": "Distopía, Aventura",
-        "plataforma": "Libro",
+        "genero": "Aventura",
         "estado": "Terminado",
         "formato": "libro",
         "fecha_terminacion": "2019-06-03",
@@ -91,7 +90,7 @@
     },
     {
         "nombre": "House of the Dragon",
-        "genero": "Fantasía, Drama",
+        "genero": "Fantasía",
         "plataforma": "HBO Max",
         "estado": "En progreso",
         "formato": "serie",
@@ -101,17 +100,17 @@
     },
     {
         "nombre": "Better Call Saul",
-        "genero": "Drama, Crimen",
+        "genero": "Crimen",
         "plataforma": "Netflix",
-        "estado": "Terminado",
+        "estado": "Pendiente",
         "formato": "serie",
-        "fecha_terminacion": "2023-05-10",
+        "fecha_terminacion": "",
         "valoracion_final": 5,
         "reseña_personal": "Cierre perfecto para el universo de Breaking Bad."
     },
     {
         "nombre": "Coraline",
-        "genero": "Fantasía, Terror",
+        "genero": "Fantasía",
         "plataforma": "Netflix",
         "estado": "Terminado",
         "formato": "pelicula",
@@ -131,7 +130,7 @@
     },
     {
         "nombre": "Arcane",
-        "genero": "Animación, Acción",
+        "genero": "Acción",
         "plataforma": "Netflix",
         "estado": "En progreso",
         "formato": "serie",
@@ -141,17 +140,17 @@
     },
     {
         "nombre": "Sherlock",
-        "genero": "Misterio, Drama",
+        "genero": "Misterio",
         "plataforma": "Netflix",
-        "estado": "Terminado",
+        "estado": "Pendiente",
         "formato": "serie",
-        "fecha_terminacion": "2020-12-09",
+        "fecha_terminacion": "",
         "valoracion_final": 5,
         "reseña_personal": "Un Sherlock moderno y brillante."
     },
     {
         "nombre": "Big Fish",
-        "genero": "Drama, Fantasía",
+        "genero": "Fantasía",
         "plataforma": "Amazon Prime",
         "estado": "Terminado",
         "formato": "pelicula",
@@ -161,7 +160,7 @@
     },
     {
         "nombre": "Mindhunter",
-        "genero": "Crimen, Psicológico",
+        "genero": "Psicológico",
         "plataforma": "Netflix",
         "estado": "En progreso",
         "formato": "serie",
@@ -171,7 +170,7 @@
     },
     {
         "nombre": "Titanic",
-        "genero": "Romance, Drama",
+        "genero": "Romance",
         "plataforma": "Star+",
         "estado": "Terminado",
         "formato": "pelicula",
@@ -181,17 +180,16 @@
     },
     {
         "nombre": "El Perfume",
-        "genero": "Misterio, Psicológico",
-        "plataforma": "Libro",
-        "estado": "Terminado",
+        "genero": "Misterio",
+        "estado": "Pendiente",
         "formato": "libro",
-        "fecha_terminacion": "2020-07-20",
+        "fecha_terminacion": "",
         "valoracion_final": 5,
         "reseña_personal": "Perturbador e hipnótico. Muy bueno."
     },
     {
         "nombre": "The Boys",
-        "genero": "Acción, Superhéroes",
+        "genero": "Superhéroes",
         "plataforma": "Amazon Prime",
         "estado": "En progreso",
         "formato": "serie",
@@ -202,7 +200,6 @@
     {
         "nombre": "Berserk",
         "genero": "Fantasía oscura",
-        "plataforma": "Libro (Manga)",
         "estado": "En progreso",
         "formato": "libro",
         "fecha_terminacion": "",
@@ -211,17 +208,17 @@
     },
     {
         "nombre": "Shrek 2",
-        "genero": "Animación, Comedia",
+        "genero": "Animación",
         "plataforma": "Netflix",
-        "estado": "Terminado",
+        "estado": "Pendiente",
         "formato": "película",
-        "fecha_terminacion": "2015-06-01",
+        "fecha_terminacion": "",
         "valoracion_final": 5,
         "reseña_personal": "La mejor de toda la saga. Divertidísima."
     },
     {
         "nombre": "Peaky Blinders",
-        "genero": "Crimen, Drama",
+        "genero": "Drama",
         "plataforma": "Netflix",
         "estado": "En progreso",
         "formato": "serie",
@@ -241,17 +238,17 @@
     },
     {
         "nombre": "Monster",
-        "genero": "Thriller, Psicológico",
-        "plataforma": "Netflix",
+        "genero": "Thriller",
+        "plataforma": "crunchyroll",
         "estado": "Terminado",
-        "formato": "crunchyroll",
+        "formato": "pelicula",
         "fecha_terminacion": "2024-02-02",
         "valoracion_final": 5,
         "reseña_personal": "Una joya del suspenso con personajes increíbles."
     },
     {
         "nombre": "Los Simpson",
-        "genero": "Animación, Comedia",
+        "genero": "Comedia",
         "plataforma": "Star+",
         "estado": "En progreso",
         "formato": "serie",
@@ -261,8 +258,7 @@
     },
     {
         "nombre": "El Código Da Vinci",
-        "genero": "Misterio, Thriller",
-        "plataforma": "Libro",
+        "genero": "Thriller",
         "estado": "Terminado",
         "formato": "libro",
         "fecha_terminacion": "2018-05-25",
@@ -271,7 +267,7 @@
     },
     {
         "nombre": "Spider-Man: Into the Spider-Verse",
-        "genero": "Animación, Acción",
+        "genero": "Animación",
         "plataforma": "Netflix",
         "estado": "Terminado",
         "formato": "película",
@@ -281,7 +277,7 @@
     },
     {
         "nombre": "Parásitos",
-        "genero": "Drama, Thriller",
+        "genero": "Thriller",
         "plataforma": "Amazon Prime",
         "estado": "En progreso",
         "formato": "película",
@@ -291,7 +287,7 @@
     },
     {
         "nombre": "Breaking Bad",
-        "genero": "Drama, Crimen",
+        "genero": "Drama",
         "plataforma": "Netflix",
         "estado": "Terminado",
         "formato": "serie",
@@ -301,17 +297,17 @@
     },
     {
         "nombre": "El Padrino",
-        "genero": "Drama, Crimen",
+        "genero": "Crimen",
         "plataforma": "Amazon Prime",
-        "estado": "Terminado",
+        "estado": "Pendiente",
         "formato": "película",
-        "fecha_terminacion": "2023-04-15",
+        "fecha_terminacion": "",
         "valoracion_final": 5,
         "reseña_personal": "Obra maestra del cine con actuaciones brillantes."
     },
     {
         "nombre": "Stranger Things",
-        "genero": "Ciencia Ficción, Suspenso",
+        "genero": "Suspenso",
         "plataforma": "Netflix",
         "estado": "En emisión",
         "formato": "serie",
@@ -331,8 +327,7 @@
     },
     {
         "nombre": "1984",
-        "genero": "Distopía, Política",
-        "plataforma": "Libro",
+        "genero": "Distopía",
         "estado": "Terminado",
         "formato": "libro",
         "fecha_terminacion": "2022-11-20",
@@ -351,7 +346,7 @@
     },
     {
         "nombre": "Interestelar",
-        "genero": "Ciencia Ficción, Drama",
+        "genero": "Ciencia Ficción",
         "plataforma": "HBO Max",
         "estado": "En progreso",
         "formato": "película",
@@ -361,7 +356,7 @@
     },
     {
         "nombre": "El Principito",
-        "genero": "Fantasía, Filosofía",
+        "genero": "Filosofía",
         "plataforma": "Libro",
         "estado": "Terminado",
         "formato": "libro",
@@ -371,7 +366,7 @@
     },
     {
         "nombre": "La Casa de Papel",
-        "genero": "Acción, Suspenso",
+        "genero": "Acción",
         "plataforma": "Netflix",
         "estado": "Terminado",
         "formato": "serie",
@@ -381,7 +376,7 @@
     },
     {
         "nombre": "The Mandalorian",
-        "genero": "Ciencia Ficción, Aventura",
+        "genero": "Aventura",
         "plataforma": "Disney+",
         "estado": "En progreso",
         "formato": "serie",
@@ -392,7 +387,6 @@
     {
         "nombre": "Harry Potter y la Piedra Filosofal",
         "genero": "Fantasía",
-        "plataforma": "Libro",
         "estado": "Terminado",
         "formato": "libro",
         "fecha_terminacion": "2020-03-01",
@@ -411,7 +405,7 @@
     },
     {
         "nombre": "Rick and Morty",
-        "genero": "Animación, Comedia",
+        "genero": "Animación",
         "plataforma": "HBO Max",
         "estado": "En progreso",
         "formato": "serie",
@@ -421,8 +415,7 @@
     },
     {
         "nombre": "La Odisea",
-        "genero": "Épico, Aventura",
-        "plataforma": "Libro",
+        "genero": "Épico",
         "estado": "Terminado",
         "formato": "libro",
         "fecha_terminacion": "2019-12-10",
@@ -431,7 +424,7 @@
     },
     {
         "nombre": "Dark",
-        "genero": "Ciencia Ficción, Misterio",
+        "genero": "Misterio",
         "plataforma": "Netflix",
         "estado": "Terminado",
         "formato": "serie",
@@ -441,7 +434,7 @@
     },
     {
         "nombre": "Pulp Fiction",
-        "genero": "Crimen, Drama",
+        "genero": "Crimen",
         "plataforma": "Amazon Prime",
         "estado": "Terminado",
         "formato": "película",
@@ -451,7 +444,7 @@
     },
     {
         "nombre": "Chernobyl",
-        "genero": "Drama, Historia",
+        "genero": "Historia",
         "plataforma": "HBO Max",
         "estado": "Terminado",
         "formato": "serie",
@@ -461,7 +454,7 @@
     },
     {
         "nombre": "El Señor de los Anillos",
-        "genero": "Fantasía, Épica",
+        "genero": "Fantasía",
         "plataforma": "Libro",
         "estado": "En progreso",
         "formato": "libro",
@@ -471,22 +464,32 @@
     },
     {
         "nombre": "The Social Network",
-        "genero": "Drama, Biografía",
+        "genero": "Biografía",
         "plataforma": "Netflix",
-        "estado": "Terminado",
+        "estado": "Pendiente",
         "formato": "película",
-        "fecha_terminacion": "2022-02-20",
+        "fecha_terminacion": "",
         "valoracion_final": 4,
         "reseña_personal": "Interesante mirada al nacimiento de Facebook."
     },
     {
         "nombre": "El Juego del Calamar",
-        "genero": "Thriller, Drama",
+        "genero": "Thriller",
         "plataforma": "Netflix",
         "estado": "Terminado",
         "formato": "serie",
         "fecha_terminacion": "2022-03-01",
         "valoracion_final": 3,
         "reseña_personal": "Muy popular, aunque algo predecible."
+    },
+    {
+        "nombre": "Demon Slayer",
+        "genero": "Accion",
+        "plataforma": "crunchyroll",
+        "estado": "En progreso",
+        "formato": "serie",
+        "fecha_terminacion": "2024-04-01",
+        "valoracion_final": 3,
+        "reseña_personal": "Simplemente El mejor anime de los timepo"
     }
 ]
